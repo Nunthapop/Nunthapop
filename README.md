@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ I'm a Junior Frontend Web Developer based in Thailand, passionate about crafting seamless user experiences and web applications</p>
+<p align="left">✨ I'm a  Web Developer based in Thailand, passionate about crafting seamless user experiences and web applications</p>
 
 ###
 
